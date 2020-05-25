@@ -4,7 +4,7 @@ from datetime import timedelta
 import time
 
 
-
+## get city filter
 def get_city():
     city = ''
     while city.lower() not in ['chicago', 'new york', 'washington']:
