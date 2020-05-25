@@ -12,4 +12,4 @@ This Python script is written for Project 2 (Term 1) of Udacity's Data Analyst N
 chicago.csv,washington.csv,ney_york_city.csv
 
 ### Credits
-just surfed web for basic concepts of python 
+just surfed web for basic concepts of python for eg.tutorialspoint.com
